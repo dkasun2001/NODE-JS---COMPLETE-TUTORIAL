@@ -1,11 +1,11 @@
 {
   "name": "auk-learning",
   "version": "1.0.0",
-  "main": "./7. File Upload - Formidable/index.js",
+  "main": "./8. Build Node Server/index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon ./7. File Upload - Formidable/index.js"
+    "dev": "nodemon ./8. Build Node Server/index.js"
   },
   "author": "Dinusha",
   "license": "ISC",
