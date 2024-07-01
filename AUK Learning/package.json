@@ -1,11 +1,12 @@
 {
   "name": "auk-learning",
   "version": "1.0.0",
-  "main": "./11. Work with MYSQL Database/index.js",
+  "main": "./14. Cluster & Worker Threads/index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon ./11. Work with MYSQL Database/index.js"
+    "dev": "nodemon ./14. Cluster & Worker Threads/index.js",
+    "start": "node start"
   },
   "author": "Dinusha",
   "license": "ISC",
